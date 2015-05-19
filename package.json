@@ -1,0 +1,49 @@
+{
+  "name": "gulp-pa11y",
+  "version": "0.0.1",
+  "description": "Audit accessibility of your site using Gulp based on pa11y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamzmaster/gulp-pa11y.git"
+  },
+  "keywords": [
+    "pa11y",
+    "report",
+    "website",
+    "web",
+    "developer",
+    "wai",
+    "accessibility",
+    "dev",
+    "tool",
+    "aria",
+    "test",
+    "audit",
+    "pa11y",
+    "cli-app",
+    "gulpplugin",
+    "gulp"
+  ],
+  "engines": {
+    "node": ">= 0.10.7"
+  },
+  "dependencies": {
+    "pa11y": "^1.7.0",
+    "gulp-util": "^3.0.4",
+    "object-assign": "~2.0.0",
+    "pa11y-reporter-rainbows": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11"
+  },
+  "author": "Ankit Singhal",
+  "license": "GNU General Public License 3.0",
+  "bugs": {
+    "url": "https://github.com/dreamzmaster/gulp-pa11y/issues"
+  },
+  "homepage": "https://github.com/dreamzmaster/gulp-pa11y"
+}
