@@ -1,7 +1,7 @@
 {
   "name": "gulp-pa11y",
-  "version": "0.0.1",
-  "description": "Audit accessibility of your site using Gulp based on pa11y",
+  "version": "0.0.2",
+  "description": "Accessibility audit of your site using Gulp based on pa11y",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

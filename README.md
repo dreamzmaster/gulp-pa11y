@@ -1,6 +1,6 @@
 # gulp-pa11y
 
-## Audit accessibility of your site using pa11y
+## Accessibility Audit of your site using pa11y
 
 gulp-pa11y is a [gulp.js](https://github.com/gulpjs/gulp) task to do accessibility audit of your site for standards: Section508, WCAG2A, WCAG2AA (default), WCAG2AAA using [pa11y](https://github.com/nature/pa11y)
 
