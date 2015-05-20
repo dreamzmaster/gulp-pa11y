@@ -7,7 +7,8 @@ var gulp 		= require('gulp'),
 	pa11y = require('./index.js');
 
 gulp.task('build', pa11y({
-	url: 'http://0.0.0.0:8000/hub',
-	reporter: 'console',
-	failOnError: false
+	url: 'http://www.marksandspencer.com',
+	failOnError: true, // fail tje build on error
+	showFailedOnly: true, // show errors only and override reporter
+	reporter: 'console'
 }));
