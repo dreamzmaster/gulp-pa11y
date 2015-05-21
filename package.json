@@ -1,6 +1,6 @@
 {
   "name": "gulp-pa11y",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Accessibility audit of your site using Gulp based on pa11y",
   "main": "index.js",
   "scripts": {
