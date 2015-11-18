@@ -4,7 +4,7 @@
 
 gulp-pa11y is a [gulp.js](https://github.com/gulpjs/gulp) task to do accessibility audit of your site for standards: Section508, WCAG2A, WCAG2AA (default), WCAG2AAA using [pa11y](https://github.com/nature/pa11y)
 
-It runs [HTML CodeSniffer][http://squizlabs.github.com/HTML_CodeSniffer/] from the command line for programmatic accessibility reporting.
+It runs [HTML CodeSniffer](http://squizlabs.github.com/HTML_CodeSniffer/) from the command line for programmatic accessibility reporting.
 
 Check out the [documentation](https://github.com/nature/pa11y) to get a full overview of what you can do and test using [pally.org](http://pa11y.org/).
 
